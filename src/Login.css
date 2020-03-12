@@ -1,0 +1,22 @@
+.button
+{
+    margin-top: 20px;
+}
+
+.button > a
+{
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px 20px;
+    background-color: #02a85e;
+}
+
+.content
+{
+    text-align: center;
+}
+
+.password
+{
+    margin-top: 20px;
+}

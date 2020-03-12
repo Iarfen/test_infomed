@@ -1,0 +1,71 @@
+.top_bar
+{
+    background-color: #02a85e;
+    height: 40px;
+    position: relative;
+}
+
+.top_bar > h1
+{
+    display: inline-block;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+    margin-top: 8px;
+    margin-left: 52px;
+}
+
+.top_bar > img
+{
+    width: 32px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#top_bar_menu
+{
+    position: absolute;
+    top: 4px;
+    left: 10px;
+}
+
+#top_bar_more
+{
+    position: absolute;
+    top: 4px;
+    right: 10px;
+}
+
+.back
+{
+    margin-top: 20px;
+}
+
+.back > a
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+.back > a > img
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 16px;
+    margin-right: 10px;
+}
+
+.detail
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.info
+{
+    border: 1px solid #000000;
+    display: inline-block;
+    width: 500px;
+    text-align: left;
+    padding: 5px;
+}
